@@ -3,7 +3,7 @@
 #email: abimael.alves@escola.pr.gov.br
 
 
-- 👋 Hi, I’m @abimaeldasilva
+- 👋 oi,eu sou @abimaeldasilva
 - 👀 eu estou interessado em aprender e conhecer esse mundo da programação ...
 - 🌱 eu estou atualmente aprendendo programação por varios cursos e já criei meu primeiro jogo ...
 - 💞️ eu estou procurando cooperadores para a criação de um novo jogo
